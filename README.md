@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in problem solving and learning about web technologies
 - 🌱 I’m currently exploring the domain of web devlopment 
-- 💞️ I’m looking to collaborate on web dev projects
+- 💞️ I’m looking to collaborate on projects including web dev and machine learning 
   
 
 <!---
